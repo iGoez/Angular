@@ -1,5 +1,4 @@
-import { Component, OnInit } from '@angular/core';
-import { HeroeComponent } from '../heroe/heroe.component';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-listado',
